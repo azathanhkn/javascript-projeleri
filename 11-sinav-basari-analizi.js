@@ -1,6 +1,3 @@
-// 11 - Sınav Başarı Analizi
-// Sınıf notları ortalaması ve başarı oranı
-
 let notlar = [90, 85, 40, 75, 95, 60, 48, 80];
 
 function ortalamaHesapla(liste) {

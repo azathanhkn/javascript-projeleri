@@ -1,4 +1,4 @@
-# 🚀 JavaScript Temelleri ve Uygulama Projeleri
+# JavaScript Temelleri ve Uygulama Projeleri
 
 Bu depo, **Bilgisayar Programcılığı** eğitimi kapsamında geliştirilen temel JavaScript algoritmaları, veri yapıları ve web uygulamalarını içermektedir.
 
@@ -7,9 +7,9 @@ Bu depo, **Bilgisayar Programcılığı** eğitimi kapsamında geliştirilen tem
 
 ---
 
-## 📂 Proje İçeriği
+## Proje İçeriği
 
-### 🔹 Temel Konsol Alıştırmaları (Node.js / Console)
+### Temel Konsol Alıştırmaları (Node.js / Console)
 1. **`01-merhaba-javascript.js`**: JavaScript'e giriş ve konsol çıktısı.
 2. **`02-degiskenler-ve-veri-tipleri.js`**: `typeof` operatörü ile veri tipleri.
 3. **`03-dort-islem.js`**: Temel matematiksel işlemler ve mod alma.
@@ -25,12 +25,12 @@ Bu depo, **Bilgisayar Programcılığı** eğitimi kapsamında geliştirilen tem
 
 ---
 
-### 🌐 Mini Web Uygulamaları
+### Mini Web Uygulamaları
 - **`13-not-sistemi/`**: Vize (%40) ve Final (%60) notuna göre dönem sonu ortalaması, harf notu ve geçme/kalma durumu hesaplayan modern web arayüzü.
 
 ---
 
-## 💻 Çalıştırma ve Kullanım
+## Çalıştırma ve Kullanım
 
 ### Konsol Dosyalarını Çalıştırma
 ```bash
@@ -42,4 +42,4 @@ node 08-fonksiyonlu-hesap-makinesi.js
 Klasör içindeki `13-not-sistemi/index.html` dosyasını herhangi bir web tarayıcısında çift tıklayarak açabilirsiniz.
 
 ---
-⭐ Azathan Hakan tarafından eğitim ve pratik amacıyla hazırlanmıştır.
+Azathan Hakan tarafından eğitim ve pratik amacıyla hazırlanmıştır.

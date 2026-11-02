@@ -1,6 +1,3 @@
-// 09 - Sayı Tahmin Oyunu
-// Rastgele sayı ve adım adım tahmin kontrolü
-
 let hedefSayi = Math.floor(Math.random() * 20) + 1;
 let denemeler = [6, 15, 10, 18, 12];
 
@@ -14,7 +11,7 @@ for (let i = 0; i < denemeler.length; i++) {
     console.log((i + 1) + ". Tahmin: " + tahmin);
 
     if (tahmin === hedefSayi) {
-        console.log(">> Tebrikler! Doğru tahmin! 🎉");
+        console.log(">> Tebrikler! Doğru tahmin! ");
         bulundu = true;
         break;
     } else if (tahmin < hedefSayi) {

@@ -1,6 +1,3 @@
-// 01 - Merhaba JavaScript
-// Temel konsol çıktısı ve değişken tanımlama
-
 const bolum = "Bilgisayar Programcılığı";
 const isim = "Azathan Hakan";
 

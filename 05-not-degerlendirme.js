@@ -1,6 +1,3 @@
-// 05 - Harf Notu Değerlendirmesi
-// Sınav notuna göre harf notu belirleme
-
 let puan = 88;
 let harf = "";
 let aciklama = "";

@@ -1,6 +1,3 @@
-// 06 - Çarpım Tablosu
-// Döngü yardımıyla çarpım tablosu listeleme
-
 let carpan = 9;
 
 console.log("=== " + carpan + " Sayısının Çarpım Tablosu ===");

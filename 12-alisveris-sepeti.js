@@ -1,6 +1,3 @@
-// 12 - Alışveriş Sepeti
-// Nesne dizisi ile sepet toplamı ve indirim
-
 let sepet = [
     { urun: "27'' Oyuncu Monitörü", fiyat: 3400, adet: 1 },
     { urun: "Kablosuz Mekanik Klavye", fiyat: 750, adet: 1 },

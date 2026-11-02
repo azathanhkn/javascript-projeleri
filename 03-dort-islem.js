@@ -1,6 +1,3 @@
-// 03 - Matematiksel İşlemler
-// Dört işlem ve modülüs (kalan) hesabı
-
 let sayi1 = 48;
 let sayi2 = 8;
 

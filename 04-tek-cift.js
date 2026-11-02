@@ -1,6 +1,3 @@
-// 04 - Tek / Çift Kontrolü
-// Sayının 2'ye bölümünden kalan ile kontrol
-
 let sayi = 27;
 
 console.log("İncelenen Değer: " + sayi);

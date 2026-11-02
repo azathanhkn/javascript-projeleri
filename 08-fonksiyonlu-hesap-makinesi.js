@@ -1,6 +1,3 @@
-// 08 - Hesap Makinesi Fonksiyonu
-// Dört işlem fonksiyonu tasarımı
-
 function hesapMakinesi(sayi1, sayi2, islem) {
     if (islem === "+") {
         return sayi1 + sayi2;

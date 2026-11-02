@@ -1,6 +1,3 @@
-// 07 - Öğrenci Listesi
-// Dizi üzerinde döngü kurma ve eleman sayısı alma
-
 let ogrenciler = ["Azathan", "Emre", "Batuhan", "Kaan", "Mert"];
 
 console.log("=== Sınıf Listesi ===");

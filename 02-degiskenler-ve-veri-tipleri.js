@@ -1,6 +1,3 @@
-// 02 - Değişkenler ve Veri Tipleri
-// Temel veri tipleri: String, Number, Boolean ve typeof kontrolü
-
 let ogrenciAdi = "Azat";
 let bolum = "Bilgisayar Programcılığı";
 let yas = 22;

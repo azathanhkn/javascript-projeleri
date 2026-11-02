@@ -49,7 +49,7 @@ hesaplaButton.addEventListener("click", function () {
     durumAlani.className = "status";
 
     if (ortalama >= 50 && finalNotu >= 45) {
-        durumAlani.textContent = "Tebrikler, Dersi Geçtiniz! 🎉";
+        durumAlani.textContent = "Tebrikler, Dersi Geçtiniz! ";
         durumAlani.classList.add("pass");
         detayAlani.textContent = "Dönem sonu başarı koşullarını sağladınız.";
     } else {

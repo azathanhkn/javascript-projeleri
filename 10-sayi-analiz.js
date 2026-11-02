@@ -1,6 +1,3 @@
-// 10 - Sayı Dizisi Analizi
-// Dizi üzerinde en büyük, en küçük, toplam ve ortalama hesabı
-
 let sayilar = [18, 54, 11, 87, 33, 72, 40, 9];
 
 let toplam = 0;
